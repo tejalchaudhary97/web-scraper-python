@@ -33,3 +33,9 @@ Usage
 Run the scraper:
 
 python scraper.py
+
+Job Listings Scraper
+python job_scraper.py
+
+
+Output: jobs.csv with job titles, companies, and links
